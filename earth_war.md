@@ -1,19 +1,20 @@
 <table>
       <body>
         <tr>
-<<<<<<< HEAD
           <td>권한성</td>
           <td>권한성</td>
           <td>권한성</td>
           <td>이름</td>
           <td>이름</td>
-=======
+
           <td>권한성</td>
           <td>권한성</td>
           <td>권한성</td>
           <td>권한성</td>
           <td>권한성</td>
->>>>>>> ca177507efe3e22207632cc6bf5b3e0957b8129f
+          <td>김병준</td>
+          <td>김병준</td>
+          <td>김병준</td>
         </tr>
         <tr>
           <td>김병준</td>
@@ -22,7 +23,7 @@
           <td>김병준</td>
           <td>김병준</td>
         </tr>
-      </tbody>
+      </body>
 </table>
 
 ## 땅따먹기 게임
