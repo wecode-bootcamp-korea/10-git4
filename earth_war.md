@@ -1,20 +1,11 @@
 <table>
       <body>
         <tr>
-          <td>권한성</td>
-          <td>권한성</td>
-          <td>권한성</td>
-          <td>이름</td>
-          <td>이름</td>
-
-          <td>권한성</td>
-          <td>권한성</td>
-          <td>권한성</td>
-          <td>권한성</td>
-          <td>권한성</td>
-          <td>김병준</td>
-          <td>김병준</td>
-          <td>김병준</td>
+          <td>lee</td>
+          <td>lee</td>
+          <td>lee</td>
+          <td>lee</td>
+          <td>lee</td>
         </tr>
         <tr>
           <td>김병준</td>
