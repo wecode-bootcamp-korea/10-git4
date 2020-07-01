@@ -1,7 +1,7 @@
 <table>
       <tbody>
         <tr>
-          <td>김병준</td>
+          <td>권한성</td>
           <td>김병준</td>
           <td>김병준</td>
           <td>김병준</td>
