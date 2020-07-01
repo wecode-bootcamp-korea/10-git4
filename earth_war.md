@@ -1,9 +1,9 @@
 <table>
-      <tbody>
+      <body>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>권한성</td>
+          <td>권한성</td>
+          <td>권한성</td>
           <td>이름</td>
           <td>이름</td>
         </tr>
