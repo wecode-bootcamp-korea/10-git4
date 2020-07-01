@@ -1,8 +1,8 @@
 <table>
       <body>
         <tr>
-          <td>권한성</td>
-          <td>권한성</td>
+          <td>이문영</td>
+          <td>이문영2</td>
           <td>권한성</td>
           <td>이름</td>
           <td>이름</td>
